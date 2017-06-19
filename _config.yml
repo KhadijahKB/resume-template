@@ -7,6 +7,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+  
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Khadijah J. Baptiste"
